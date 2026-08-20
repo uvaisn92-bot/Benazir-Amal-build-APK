@@ -1,0 +1,6 @@
+{
+  "name": "बे नज़ीर अमल",
+  "description": "हुज़ूर मुफ़्ती-ए-आज़म हिन्द का अता करदा बे नज़ीर अमल - मुकम्मल दुआ, तर्जुमा, वज़ीफ़ा काउन्टर व मुबारक़ नक़्श",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.68"
+        android:scaleY="0.68"
+        android:translateX="17.28"
+        android:translateY="17.28">
+
+        <!-- Outer decorative ring -->
+        <path
+            android:pathData="M54,16 A38,38 0 1,0 54,92 A38,38 0 1,0 54,16 Z"
+            android:strokeColor="#D4AF37"
+            android:strokeWidth="1.8"
+            android:fillColor="#00000000" />
+
+        <!-- Mihrab / Dome arch silhouette -->
+        <path
+            android:pathData="M34,70 L34,50 C34,36 54,26 54,26 C54,26 74,36 74,50 L74,70 Z"
+            android:fillColor="#155D38"
+            android:strokeColor="#FFD56B"
+            android:strokeWidth="2" />
+
+        <!-- Open Book (Holy Quran / Dua) -->
+        <path
+            android:pathData="M54,58 C48,54 40,54 36,56 L36,74 C40,72 48,72 54,76 C60,72 68,72 72,74 L72,56 C68,54 60,54 54,58 Z"
+            android:fillColor="#FFFDF7"
+            android:strokeColor="#E6B800"
+            android:strokeWidth="1.2" />
+
+        <!-- Spine divider of book -->
+        <path
+            android:pathData="M54,58 L54,76"
+            android:strokeColor="#C59B27"
+            android:strokeWidth="1.5" />
+
+        <!-- Crescent & Star at Top of Dome -->
+        <path
+            android:pathData="M54,25 A6,6 0 1,1 50,33 A4.5,4.5 0 1,0 54,25 Z"
+            android:fillColor="#FFD700" />
+            
+        <path
+            android:pathData="M54,30 L55,32 L57,32 L55.5,33.2 L56,35 L54,34 L52,35 L52.5,33.2 L51,32 L53,32 Z"
+            android:fillColor="#FFE066" />
+    </group>
+</vector>
